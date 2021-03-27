@@ -79,7 +79,7 @@ Whether I can choose my own portfolio that performs just as well as the algorith
 
 2. Downloaded the data as CSV files and calculate the portfolio returns.
 
-3. Calculated the weighted returns for your portfolio, assuming equal number of shares per stock.
+3. Calculated the weighted returns for my portfolio, assuming equal number of shares per stock.
 
 4. Added my portfolio returns to the DataFrame with the other portfolios.
 
@@ -88,7 +88,7 @@ Whether I can choose my own portfolio that performs just as well as the algorith
     * Calculate the Annualized Standard Deviation.
     * Calculate and plot rolling `std` with a 21-day window.
     * Calculate and plot the correlation.
-    * Calculate and plot beta for your portfolio compared to the S&P 60 TSX.
+    * Calculate and plot beta for my portfolio compared to the S&P 60 TSX.
     * Calculate the Sharpe ratios and generate a bar plot.
 
 4. Analyzed how does my portfolio do?
